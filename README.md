@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="NextGen Learners — Code · Learn · Innovate · Succeed" width="100%">
+  <img src="banner.png" alt="NextGen Learners — Code · Learn · Innovate · Succeed" width="100%">
 </p>
 
 <h1 align="center">NextGen Learners — Data Science Internship</h1>
@@ -8,13 +8,6 @@
   My weekly deliverables, notebooks, and datasets from the <b>NextGen Learners</b> Data Science Internship.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-Data%20Cleaning-150458?logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/Google%20Colab-Ready-F9AB00?logo=googlecolab&logoColor=white" alt="Colab">
-  <img src="https://img.shields.io/badge/Status-In%20Progress-1abc9c" alt="Status">
-</p>
 
 ---
 
